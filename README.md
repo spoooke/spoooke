@@ -1,25 +1,27 @@
 <img src="banner.svg" alt="spoooke" width="100%">
 
-## Bonjour, ici spoooke
+### Hi, I'm spoooke
 
-Autodidacte, je conçois des applications iOS et macOS : outils du quotidien, sécurité, automatisation. Des apps sobres, rapides, qui gardent les données sur l'appareil.
+Self-taught, I build iOS and macOS apps: everyday tools, security, automation. Small, fast apps that keep data on the device.
 
-### En construction
+Autodidacte, je fais des apps iOS et macOS : outils du quotidien, sécurité, automatisation. Des apps légères et rapides, qui gardent les données sur l'appareil.
 
-- **Égide** · Application iPhone qui réunit plusieurs outils personnels dans une seule app à onglets.
-- **Pactole** · Suivi du budget au quotidien sur iPhone et Mac : dépenses, frais fixes et reste à dépenser.
-- **Muse** · Capture d'idées en quelques secondes, avec rappels et tri par priorité.
-- **Argos** · Supervision de la sécurité d'un parc d'ordinateurs : agents, serveur, tableau de bord et alertes.
-- **Hermès** · Contrôle à distance d'un Mac depuis l'iPhone, chiffré de bout en bout, sans serveur tiers.
-- **Héphaïstos** · Températures, mémoire et disque du Mac dans la barre des menus, avec alertes sur l'iPhone.
-- **Cerbère** · Audit de sécurité statique d'un dépôt ou d'une app avant de l'installer, sans rien exécuter.
+#### Building
 
-<sub>Dépôts privés pour l'instant, publiés au fil de l'eau.</sub>
+- **Égide** - One iPhone app for all my personal tools, one per tab. · *Tous mes outils perso dans une seule app iPhone.*
+- **Pactole** - How much can I still spend before payday? iPhone and Mac. · *Le budget au quotidien, sur iPhone et Mac.*
+- **Muse** - Write an idea down in seconds, with reminders. · *Noter une idée en quelques secondes, avec rappels.*
+- **Argos** - Security checks and alerts for all my computers. · *Sécurité et alertes pour tous mes ordinateurs.*
+- **Hermès** - Control the Mac from the iPhone, end-to-end encrypted. · *Piloter le Mac depuis l'iPhone, chiffré de bout en bout.*
+- **Héphaïstos** - Mac temperatures, memory and disk in the menu bar. · *Températures, mémoire et disque du Mac dans la barre des menus.*
+- **Cerbère** - Audit a repository or an app before installing it, without running anything. · *Auditer un dépôt ou une app avant de l'installer, sans rien exécuter.*
 
-### Archives
+<sub>Private for now, published as they get ready. · Privés pour l'instant, publiés au fur et à mesure.</sub>
 
-- [**JeuxDesCases**](https://github.com/spoooke/JeuxDesCases) · Jeu de grille en C++, refonte prévue.
+#### Older
 
-### Outils
+- [**JeuxDesCases**](https://github.com/spoooke/JeuxDesCases) - Grid game in C++, rewrite planned. · *Jeu de grille en C++, refonte prévue.*
+
+#### Tools
 
 Swift · SwiftUI · Go · C++ · Python
