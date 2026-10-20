@@ -8,15 +8,19 @@ Autodidacte, je fais des apps iOS et macOS : outils du quotidien, sécurité, au
 
 #### Building
 
-- **Égide** - One iPhone app for all my personal tools, one per tab. · *Tous mes outils perso dans une seule app iPhone.*
-- **Pactole** - How much can I still spend before payday? iPhone and Mac. · *Le budget au quotidien, sur iPhone et Mac.*
+[**Égide**](https://github.com/spoooke/egide) - My everyday tools in one app, on the iPhone and the Mac. Swift 6, SwiftUI, no third-party libraries. · *Mes outils du quotidien dans une seule app, sur l'iPhone et le Mac. Swift 6, SwiftUI, aucune bibliothèque extérieure.*
+
+One tab per tool · Un onglet par outil :
+
+- **Pactole** - What's left to spend this week; reads receipts and bank statements. · *Ce qu'il reste à dépenser cette semaine ; lit les reçus et le relevé de banque.*
 - **Muse** - Write an idea down in seconds, with reminders. · *Noter une idée en quelques secondes, avec rappels.*
 - **Argos** - Security checks and alerts for all my computers. · *Sécurité et alertes pour tous mes ordinateurs.*
 - **Hermès** - Control the Mac from the iPhone, end-to-end encrypted. · *Piloter le Mac depuis l'iPhone, chiffré de bout en bout.*
 - **Héphaïstos** - Mac temperatures, memory and disk in the menu bar. · *Températures, mémoire et disque du Mac dans la barre des menus.*
 - **Cerbère** - Audit a repository or an app before installing it, without running anything. · *Auditer un dépôt ou une app avant de l'installer, sans rien exécuter.*
+- **Iris** - Scan a receipt or an invoice on the iPhone, find it sorted on the Mac. · *Scanner un ticket ou une facture sur l'iPhone, le retrouver rangé sur le Mac.*
 
-<sub>Private for now, published as they get ready. · Privés pour l'instant, publiés au fur et à mesure.</sub>
+<sub>Public since October 2026, MIT licence. · Public depuis octobre 2026, licence MIT.</sub>
 
 #### Older
 
