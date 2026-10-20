@@ -24,7 +24,7 @@ One tab per tool · Un onglet par outil :
 
 #### Older
 
-- [**JeuxDesCases**](https://github.com/spoooke/JeuxDesCases) - Grid game in C++, rewrite planned. · *Jeu de grille en C++, refonte prévue.*
+- [**JeuxDesCases**](https://github.com/spoooke/JeuxDesCases) - Programming puzzle in C++ and SFML: guide an arrow to every star. · *Casse-tête de programmation en C++ et SFML : guider une flèche vers chaque étoile.*
 
 #### Tools
 
